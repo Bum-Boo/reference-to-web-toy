@@ -36,6 +36,28 @@ $reference-to-web-toy 기존 앱의 원본 패널과 누락 기능을 대조해�
 
 특정 모델·MCP·개인 경로나 Wiki가 필요하지 않습니다. 앱을 만들고 실제로 확인하려면 사용 환경에 코드 실행과 브라우저/이미지 확인 도구가 있어야 합니다. 프로젝트에 적용되는 역할·리뷰·게시 승인 지침을 따릅니다.
 
+## 제작 데모
+
+직접 만든 앱을 브라우저에서 실행해 캡처했습니다. 이미지를 클릭하면 원래 크기로 볼 수 있습니다.
+
+### 청새치
+
+[![Plush Marlin 앱과 조작 패널](docs/demos/marlin.jpg)](docs/demos/marlin.jpg)
+
+[실제 CLI 제작 프롬프트 발췌](docs/demos/marlin-prompt.txt)
+
+### 젤리 수박
+
+[![Melon Jelly 앱과 조작 패널](docs/demos/watermelon.jpg)](docs/demos/watermelon.jpg)
+
+칼 모드에서 직접 드래그해 두 조각으로 자른 화면입니다.
+
+[![수박 자르기 결과 — 두 조각](docs/demos/watermelon-cut.jpg)](docs/demos/watermelon-cut.jpg)
+
+[실제 CLI 제작 프롬프트 발췌](docs/demos/watermelon-prompt.txt)
+
+프롬프트는 제작 당시 Claude CLI의 표준 입력으로 전달한 지시에서 기능 부분을 그대로 발췌한 텍스트입니다. 원본 링크와 내부 운영 지시는 제외했습니다. 과거 터미널 화면을 재현한 이미지는 사용하지 않았습니다. 초기 작성 뒤 기능·패널 보정을 거쳤으므로 한 번의 프롬프트만으로 완성됐다는 예시는 아닙니다.
+
 ## 파일
 
 - [SKILL.md](SKILL.md): 진입 지침과 호출 조건.
