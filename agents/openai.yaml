@@ -1,0 +1,4 @@
+interface:
+  display_name: "레퍼런스 웹 장난감 제작"
+  short_description: "영상 속 장난감을 조작 가능한 웹앱으로 재현하고 원본과 대조·검증"
+  default_prompt: "$reference-to-web-toy 이 레퍼런스의 모양·동작·조작 패널을 확인해서 직접 만질 수 있는 웹앱으로 만들어줘."
